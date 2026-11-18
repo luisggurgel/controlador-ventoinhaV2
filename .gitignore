@@ -1,0 +1,10 @@
+build/
+nitrosense-btop
+*.o
+*.log
+.DS_Store
+.env*
+!.env.example
+.playwright-cli/
+.aistudio/
+public/assets/aistudio/
